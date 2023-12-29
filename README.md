@@ -1,3 +1,3 @@
 # Practice Demo
 
-Add the description of the project
+Add the description of the project.
