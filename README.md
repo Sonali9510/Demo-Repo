@@ -6,3 +6,7 @@ Add the description of the project.
 
 Learn about Git.
 Go through the tutorial..!
+
+## local development
+
+1. Open Index.html in your browser
