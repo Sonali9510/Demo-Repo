@@ -9,4 +9,4 @@ Go through the tutorial..!!
 
 ## local development
 
-1. Open Index.html in your browser
+1. Open Index.html in your browsers
