@@ -5,7 +5,7 @@ Add the description of the project.
 ## Subheader
 
 Learn about Git.
-Go through the tutorial..!
+Go through the tutorial..!!
 
 ## local development
 
